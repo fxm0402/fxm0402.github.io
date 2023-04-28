@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-04-24T16:50:48.638Z</updated>
+  <updated>2023-04-28T06:40:40.824Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>五一旅游出行需提前预防</title>
+    <link href="http://blog.xiangming.site/posts/4b1d7489/"/>
+    <id>http://blog.xiangming.site/posts/4b1d7489/</id>
+    <published>2023-04-28T06:10:31.000Z</published>
+    <updated>2023-04-28T06:40:40.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://yop.xiangming.site/wp-content/uploads/2023/04/28/2023:04:28-14:36:50:061.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="新闻" scheme="http://blog.xiangming.site/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+    <category term="旅行" scheme="http://blog.xiangming.site/tags/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>阿里云盘自动签到实现</title>
@@ -536,34 +561,6 @@
     <category term="单反" scheme="http://blog.xiangming.site/tags/%E5%8D%95%E5%8F%8D/"/>
     
     <category term="摄影" scheme="http://blog.xiangming.site/tags/%E6%91%84%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>从被攻击到重建：我为什么选择Hexo重新搭建我的个人网站</title>
-    <link href="http://blog.xiangming.site/posts/884863d3/"/>
-    <id>http://blog.xiangming.site/posts/884863d3/</id>
-    <published>2023-03-21T16:00:00.000Z</published>
-    <updated>2023-04-22T04:52:23.399Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;最近，我的个人网站遭受了一次&lt;strong&gt;严重的网络攻击&lt;/strong&gt;，导致网站无法正常访问。这让我感到非常沮丧和无助，因为我花费了大量的时间和精力来维护我的网站，而现在它却被攻击了。在经过一段时间的探究和思考之后，我决定使用Hexo来重新构建我的网站。&lt;/p&gt;
-&lt;p</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="攻击" scheme="http://blog.xiangming.site/tags/%E6%94%BB%E5%87%BB/"/>
-    
-    <category term="博客" scheme="http://blog.xiangming.site/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
