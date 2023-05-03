@@ -450,9 +450,9 @@
     <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="RSS" scheme="http://blog.xiangming.site/tags/RSS/"/>
-    
     <category term="hexo教程" scheme="http://blog.xiangming.site/tags/hexo%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="RSS" scheme="http://blog.xiangming.site/tags/RSS/"/>
     
   </entry>
   
