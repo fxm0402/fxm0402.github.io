@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-05-05T03:20:23.318Z</updated>
+  <updated>2023-05-06T06:11:10.824Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>给橙子的猫草</title>
+    <link href="http://blog.xiangming.site/posts/2c85f75f/"/>
+    <id>http://blog.xiangming.site/posts/2c85f75f/</id>
+    <published>2023-05-06T05:34:28.000Z</published>
+    <updated>2023-05-06T06:11:10.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前段时间橙子开始掉毛（&lt;em&gt;猫咪换季掉毛一般在3到5月份和9月到11月份左右&lt;/em&gt;)，就想是该给他准备猫草了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所谓猫草，是小麦苗、大麦苗、燕麦苗等，还有狗尾巴草，或者就是外面草坪上普通的草。还有植物类的：水竹。基本上说得是禾本</summary>
+        
+      
+    
+    
+    
+    <category term="猫猫" scheme="http://blog.xiangming.site/categories/%E7%8C%AB%E7%8C%AB/"/>
+    
+    
+    <category term="橙子" scheme="http://blog.xiangming.site/tags/%E6%A9%99%E5%AD%90/"/>
+    
+    <category term="养猫" scheme="http://blog.xiangming.site/tags/%E5%85%BB%E7%8C%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>腾讯又对公众号推送出手了</title>
@@ -531,31 +560,6 @@
     <category term="typecho" scheme="http://blog.xiangming.site/tags/typecho/"/>
     
     <category term="tag" scheme="http://blog.xiangming.site/tags/tag/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文心一言使用体验</title>
-    <link href="http://blog.xiangming.site/posts/884863d9/"/>
-    <id>http://blog.xiangming.site/posts/884863d9/</id>
-    <published>2023-03-27T06:19:42.000Z</published>
-    <updated>2023-04-22T04:52:06.047Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;随着Gpt 问世，国内版的Gpt”文心一言“也与3月16日下午进行了发布。然而这次的发布会却没有人为此买单。发布会进行到一半，百度股价一度跌近10%，网络上吐槽声四起！可能是发布会全场没有进行实机演示的原因吧（全是ppt)![🤣](&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="工具" scheme="http://blog.xiangming.site/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
