@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-05-06T06:21:03.633Z</updated>
+  <updated>2023-05-09T02:48:59.028Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>被乙肝病人的针扎了怎么办？</title>
+    <link href="http://blog.xiangming.site/posts/8dc127eb/"/>
+    <id>http://blog.xiangming.site/posts/8dc127eb/</id>
+    <published>2023-05-09T02:45:42.000Z</published>
+    <updated>2023-05-09T02:48:59.028Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;妹妹在上班时被其他护士的针给扎到了。重点是这个针时患有乙肝病毒的患者使用过的，被扎后第一时间由近心端挤到远心端，并用盐水冲洗后，第一时间去医院检查了乙肝五项并注射了乙肝免疫球蛋白200单位。难受的是乙肝病毒表面抗体为0.02国际单位，也就是说没有病毒抗体，在48小时内接种了</summary>
+        
+      
+    
+    
+    
+    <category term="新闻" scheme="http://blog.xiangming.site/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+    <category term="求助" scheme="http://blog.xiangming.site/tags/%E6%B1%82%E5%8A%A9/"/>
+    
+    <category term="乙肝" scheme="http://blog.xiangming.site/tags/%E4%B9%99%E8%82%9D/"/>
+    
+    <category term="家人" scheme="http://blog.xiangming.site/tags/%E5%AE%B6%E4%BA%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>给橙子的猫草</title>
@@ -531,33 +560,6 @@
     
     
     <category term="工具" scheme="http://blog.xiangming.site/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>给typecho加上主题自动添加tag标签功能</title>
-    <link href="http://blog.xiangming.site/posts/884863d6/"/>
-    <id>http://blog.xiangming.site/posts/884863d6/</id>
-    <published>2023-03-27T07:17:04.000Z</published>
-    <updated>2023-04-22T04:52:20.490Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;先看效果&quot;&gt;&lt;a href=&quot;#先看效果&quot; class=&quot;headerlink&quot; title=&quot;先看效果:&quot;&gt;&lt;/a&gt;先看效果:&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="typecho" scheme="http://blog.xiangming.site/tags/typecho/"/>
-    
-    <category term="tag" scheme="http://blog.xiangming.site/tags/tag/"/>
     
   </entry>
   
