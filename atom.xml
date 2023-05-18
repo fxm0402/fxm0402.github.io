@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-05-17T09:28:21.548Z</updated>
+  <updated>2023-05-18T05:09:33.280Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>绕过单向历api的referer验证</title>
+    <link href="http://blog.xiangming.site/posts/d486b8f0/"/>
+    <id>http://blog.xiangming.site/posts/d486b8f0/</id>
+    <published>2023-05-18T04:44:32.000Z</published>
+    <updated>2023-05-18T05:09:33.280Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="api" scheme="http://blog.xiangming.site/tags/api/"/>
+    
+  </entry>
   
   <entry>
     <title>灰灰生了！！</title>
@@ -536,34 +561,6 @@
     <category term="绝育" scheme="http://blog.xiangming.site/tags/%E7%BB%9D%E8%82%B2/"/>
     
     <category term="养猫" scheme="http://blog.xiangming.site/tags/%E5%85%BB%E7%8C%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>杜老师搭建新的不蒜子统计服务，替代失效的服务</title>
-    <link href="http://blog.xiangming.site/posts/2765304e/"/>
-    <id>http://blog.xiangming.site/posts/2765304e/</id>
-    <published>2023-03-30T08:48:55.000Z</published>
-    <updated>2023-04-01T13:10:45.677Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;近日，许多网站管理员发现原来使用的不蒜子统计服务&lt;code&gt;失效了&lt;/code&gt;，无法获取网站访问量等信息。然而，好消息是：杜老师搭建的不蒜子统计服务，可以替代失效的原服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不蒜子是一款轻量级的统计工具，</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="统计" scheme="http://blog.xiangming.site/tags/%E7%BB%9F%E8%AE%A1/"/>
     
   </entry>
   
