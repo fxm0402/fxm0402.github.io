@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-05-21T12:20:09.766Z</updated>
+  <updated>2023-05-27T03:46:40.551Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Twikoo 评论系统表情包的配置</title>
+    <link href="http://blog.xiangming.site/posts/a537304/"/>
+    <id>http://blog.xiangming.site/posts/a537304/</id>
+    <published>2023-05-27T02:15:30.000Z</published>
+    <updated>2023-05-27T03:46:40.551Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;昨天想给评论添加“表情包”误操作竟然把以往的评论给删除了！！！！难受啊！&lt;/p&gt;
+&lt;p&gt;回归正文配置，首先你得有一套表情包，下面是大佬整理的表情包&lt;/p&gt;
+&lt;p&gt;👉&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="twikoo" scheme="http://blog.xiangming.site/tags/twikoo/"/>
+    
+    <category term="评论，表情包" scheme="http://blog.xiangming.site/tags/%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%A1%A8%E6%83%85%E5%8C%85/"/>
+    
+  </entry>
   
   <entry>
     <title>今日小满，美食满满</title>
@@ -535,34 +564,6 @@
     
     
     <category term="pr" scheme="http://blog.xiangming.site/tags/pr/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>vscoud终端无法hexo</title>
-    <link href="http://blog.xiangming.site/posts/7ab4534c/"/>
-    <id>http://blog.xiangming.site/posts/7ab4534c/</id>
-    <published>2023-03-31T08:07:28.000Z</published>
-    <updated>2023-04-01T13:10:45.888Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;今天用vscoud 终端推送hexo报错&lt;/p&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="hexo" scheme="http://blog.xiangming.site/tags/hexo/"/>
-    
-    <category term="vscoud" scheme="http://blog.xiangming.site/tags/vscoud/"/>
     
   </entry>
   
