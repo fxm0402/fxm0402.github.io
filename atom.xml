@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-05-27T03:46:40.551Z</updated>
+  <updated>2023-05-28T00:34:32.210Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>用铅酸电池自制户外电源</title>
+    <link href="http://blog.xiangming.site/posts/d3aa45e2/"/>
+    <id>http://blog.xiangming.site/posts/d3aa45e2/</id>
+    <published>2023-05-27T08:18:00.000Z</published>
+    <updated>2023-05-28T00:34:32.210Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;再过一个月就要出发回家了（旅行），想着家里还有2块媳妇外出实验用过的“铅酸电池”，拿着贼重，又不能扔了，想着旅行也是需要户外电源的，买一个太贵，就只能自制了。&lt;/p&gt;
+&lt;h5 id=&quot;材料：&quot;&gt;&lt;a href=&quot;#材料：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手工" scheme="http://blog.xiangming.site/categories/%E6%89%8B%E5%B7%A5/"/>
+    
+    
+    <category term="旅行" scheme="http://blog.xiangming.site/tags/%E6%97%85%E8%A1%8C/"/>
+    
+    <category term="户外电源" scheme="http://blog.xiangming.site/tags/%E6%88%B7%E5%A4%96%E7%94%B5%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Twikoo 评论系统表情包的配置</title>
     <link href="http://blog.xiangming.site/posts/a537304/"/>
     <id>http://blog.xiangming.site/posts/a537304/</id>
     <published>2023-05-27T02:15:30.000Z</published>
-    <updated>2023-05-27T03:46:40.551Z</updated>
+    <updated>2023-05-27T03:48:32.590Z</updated>
     
     
       
@@ -538,32 +566,6 @@
     <category term="Typecho" scheme="http://blog.xiangming.site/tags/Typecho/"/>
     
     <category term="攻击" scheme="http://blog.xiangming.site/tags/%E6%94%BB%E5%87%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>pr倍速视频时如何保持音频音调不变？</title>
-    <link href="http://blog.xiangming.site/posts/9dc09795/"/>
-    <id>http://blog.xiangming.site/posts/9dc09795/</id>
-    <published>2023-04-01T13:32:54.000Z</published>
-    <updated>2023-04-01T13:47:28.686Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;给视频加速或者慢放后，声音就变得非常不正常了，不能直接用来使用了，今天就教你解决这一问题&lt;/p&gt;
-&lt;h5 id=&quot;方法1：&quot;&gt;&lt;a href=&quot;#方法1：&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="pr教程" scheme="http://blog.xiangming.site/categories/pr%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="pr" scheme="http://blog.xiangming.site/tags/pr/"/>
     
   </entry>
   
