@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-05-28T00:34:32.210Z</updated>
+  <updated>2023-06-01T08:44:08.705Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>捡大漏之西部数码虚拟主机</title>
+    <link href="http://blog.xiangming.site/posts/a0c8fc57/"/>
+    <id>http://blog.xiangming.site/posts/a0c8fc57/</id>
+    <published>2023-06-01T08:24:14.000Z</published>
+    <updated>2023-06-01T08:44:08.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;西部数码的虚拟主机偏贵，上图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://yop.xiangming.site/wp-content/uploads/2023/06/01/2023:06:01-16:26:12:479.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="虚拟主机" scheme="http://blog.xiangming.site/tags/%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>用铅酸电池自制户外电源</title>
     <link href="http://blog.xiangming.site/posts/d3aa45e2/"/>
     <id>http://blog.xiangming.site/posts/d3aa45e2/</id>
     <published>2023-05-27T08:18:00.000Z</published>
-    <updated>2023-05-28T00:34:32.210Z</updated>
+    <updated>2023-05-28T00:36:29.132Z</updated>
     
     
       
@@ -538,34 +564,6 @@
     
     
     <category term="设计" scheme="http://blog.xiangming.site/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Typecho 1.2.0版本出现漏洞，建议尽快更新</title>
-    <link href="http://blog.xiangming.site/posts/56465f0e/"/>
-    <id>http://blog.xiangming.site/posts/56465f0e/</id>
-    <published>2023-04-01T13:53:05.000Z</published>
-    <updated>2023-04-01T14:12:17.940Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Typecho是一款广受欢迎的开源博客系统，但是在1.2.0版本中，存在可直接利用的存储型XSS漏洞，攻击者可以利用该漏洞轻松地获取网站控制权，进而实现拿shell等攻击目的。&lt;/p&gt;
-&lt;p&gt;该漏洞的原因是Typecho在处理某些输入时，没有进行充分的过滤和验证，导致攻击者</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="Typecho" scheme="http://blog.xiangming.site/tags/Typecho/"/>
-    
-    <category term="攻击" scheme="http://blog.xiangming.site/tags/%E6%94%BB%E5%87%BB/"/>
     
   </entry>
   
