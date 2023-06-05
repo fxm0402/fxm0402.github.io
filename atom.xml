@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-06-01T08:44:08.705Z</updated>
+  <updated>2023-06-01T08:57:25.895Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我们又捡了一只猫，今天她生了</title>
+    <link href="http://blog.xiangming.site/posts/1884c8fa/"/>
+    <id>http://blog.xiangming.site/posts/1884c8fa/</id>
+    <published>2023-06-01T08:57:25.000Z</published>
+    <updated>2023-06-01T08:57:25.895Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>捡大漏之西部数码虚拟主机</title>
     <link href="http://blog.xiangming.site/posts/a0c8fc57/"/>
     <id>http://blog.xiangming.site/posts/a0c8fc57/</id>
     <published>2023-06-01T08:24:14.000Z</published>
-    <updated>2023-06-01T08:44:08.705Z</updated>
+    <updated>2023-06-01T08:44:45.220Z</updated>
     
     
       
@@ -537,33 +550,6 @@
     <category term="ChatGPT" scheme="http://blog.xiangming.site/tags/ChatGPT/"/>
     
     <category term="工具" scheme="http://blog.xiangming.site/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>阿里堆友｜国内首个3D设计平台上线！</title>
-    <link href="http://blog.xiangming.site/posts/1e9cc50b/"/>
-    <id>http://blog.xiangming.site/posts/1e9cc50b/</id>
-    <published>2023-04-03T03:38:01.000Z</published>
-    <updated>2023-05-21T08:02:37.051Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;堆友是由阿里巴巴官方设计师团队精心打造的在线设计编辑器平台，内置由阿里巴巴设计师原创的素材库，全部免费商用，无需担心版权问题。&lt;/p&gt;
-&lt;p&gt;第一期推出了3D头像、3D场景、3D元素等素材，超过百种场景和上千种元素供用户选择，适用于多种不同的应用场景。&lt;/p&gt;
-&lt;p&gt;平台提</summary>
-        
-      
-    
-    
-    
-    <category term="设计" scheme="http://blog.xiangming.site/categories/%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-    <category term="设计" scheme="http://blog.xiangming.site/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
