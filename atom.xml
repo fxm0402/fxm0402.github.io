@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-06-05T15:01:22.868Z</updated>
+  <updated>2023-06-06T04:37:41.629Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>备案重新接入，网站停止访问1月</title>
+    <link href="http://blog.xiangming.site/posts/fee139c3/"/>
+    <id>http://blog.xiangming.site/posts/fee139c3/</id>
+    <published>2023-06-06T03:59:37.000Z</published>
+    <updated>2023-06-06T04:37:41.629Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;网站 &lt;strong&gt;xiangming.site&lt;/strong&gt;   当时和买的服务器就备案在朋友的名下&lt;/p&gt;
+&lt;p&gt;前几天买了西部数码的主机（&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="备案" scheme="http://blog.xiangming.site/tags/%E5%A4%87%E6%A1%88/"/>
+    
+  </entry>
   
   <entry>
     <title>我们又捡了一只猫，今天她生了</title>
@@ -535,36 +561,6 @@
     <category term="ai" scheme="http://blog.xiangming.site/tags/ai/"/>
     
     <category term="google" scheme="http://blog.xiangming.site/tags/google/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ChatGPT大封号！亚洲成重灾区。</title>
-    <link href="http://blog.xiangming.site/posts/50277f63/"/>
-    <id>http://blog.xiangming.site/posts/50277f63/</id>
-    <published>2023-04-03T07:47:27.000Z</published>
-    <updated>2023-04-03T08:00:42.005Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;就在这两天，一些关于ChatGPT的疾呼突然在各种社交平台和群聊刷屏了。&lt;/p&gt;
-&lt;p&gt;而看到这些消息的用户更是感到前所未有的惶恐。&lt;/p&gt;
-&lt;p&gt;因为导致这些声音出现的原因是——&lt;strong&gt;ChatGPT正在悄无声息地大规模封号&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;很多</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="ChatGPT" scheme="http://blog.xiangming.site/tags/ChatGPT/"/>
-    
-    <category term="工具" scheme="http://blog.xiangming.site/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
