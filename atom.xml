@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-06-25T05:48:23.819Z</updated>
+  <updated>2023-06-26T02:24:48.903Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开荤了，小猫开始吃猫条了</title>
+    <link href="http://blog.xiangming.site/posts/5c9b621c/"/>
+    <id>http://blog.xiangming.site/posts/5c9b621c/</id>
+    <published>2023-06-26T01:35:04.000Z</published>
+    <updated>2023-06-26T02:24:48.903Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;昨晚给橙子喂猫条的时候它也凑上来，就随手给放嘴下了。&lt;/p&gt;
+&lt;p&gt;没想到它竟然吃了！！！&lt;/p&gt;
+&lt;p&gt;有了第一次，就有了第二次，我一拿猫条竟然就跑过来了！！！还狂叫！&lt;/p&gt;
+&lt;p&gt;不给，就去它妈妈的罐头碗里去吃。&lt;/p&gt;
+&lt;p&gt;没想到，不到一个月的猫猫，竟然无意中“&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="猫猫" scheme="http://blog.xiangming.site/categories/%E7%8C%AB%E7%8C%AB/"/>
+    
+    
+    <category term="养猫" scheme="http://blog.xiangming.site/tags/%E5%85%BB%E7%8C%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>橙子失去了他的🥚🥚</title>
@@ -532,33 +561,6 @@
     
     
     <category term="电视" scheme="http://blog.xiangming.site/tags/%E7%94%B5%E8%A7%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo博客中文章路由‘undefined’问题</title>
-    <link href="http://blog.xiangming.site/posts/2ebf4f1/"/>
-    <id>http://blog.xiangming.site/posts/2ebf4f1/</id>
-    <published>2023-04-22T16:48:33.000Z</published>
-    <updated>2023-04-22T16:59:28.611Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;首先，hexo要想实现“短链”就要借助插件“hexo-abbrlink”。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;hexo-abbrlink&lt;/code&gt;是一个hexo博客链接永久化的解决方案。&lt;/p&gt;
-&lt;h4 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="hexo教程" scheme="http://blog.xiangming.site/tags/hexo%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
