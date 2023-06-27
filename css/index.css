@@ -3396,10 +3396,14 @@ body[data-type="link"] #page .page-title {
   display: -ms-flexbox;
   display: box;
   display: flex;
-  color: var(--anzhiyu-lighttext);
+  color: #ffffff;
   font-size: 0.5rem;
+  background-color: #396ffcc7;
   position: absolute;
-  top: 3px;
+  top: 0px;
+  right: 50px;
+  border-radius: 0 0 5px 5px;
+  padding: 0 5px 0 5px;
 }
 #recent-posts > .recent-post-item .recent-post-info .article-title {
   font-weight: bold;
