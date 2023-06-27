@@ -2774,15 +2774,30 @@ figure.highlight pre .javascript .function {
   content: ')';
 }
 .category-lists ul {
-  padding: 0 0 0 20px;
+    padding: 0 0 0 20px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
 }
 .category-lists ul ul {
   padding-left: 4px;
 }
 .category-lists ul li {
-  position: relative;
-  margin: 6px 0;
-  padding: 0.12em 0.4em 0.12em 1.4em;
+    display: flex;
+    width: fit-content;
+    color: var(--heo-fontcolor) !important;
+    font-size: 1.4em !important;
+    padding: 0.2em 0.5em;
+    background: var(--heo-card-bg);
+    margin: 0.5em 0.5em;
+    border-radius: 12px;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform-style: preserve-3d;
+    border: var(--style-border-always);
+    box-shadow: var(--heo-shadow-border);
+    align-items: center;
 }
 #body-wrap {
   display: -webkit-box;
