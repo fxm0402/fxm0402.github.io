@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-06-27T08:44:10.155Z</updated>
+  <updated>2023-06-28T05:40:55.365Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>辞职注意事项-离职清单</title>
+    <link href="http://blog.xiangming.site/posts/f0edc6a9/"/>
+    <id>http://blog.xiangming.site/posts/f0edc6a9/</id>
+    <published>2023-06-28T03:31:54.000Z</published>
+    <updated>2023-06-28T05:40:55.365Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;工资&quot;&gt;&lt;a href=&quot;#工资&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://blog.xiangming.site/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="离职" scheme="http://blog.xiangming.site/tags/%E7%A6%BB%E8%81%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>2023端午露营记</title>
@@ -538,32 +563,6 @@
     
     
     <category term="旅行" scheme="http://blog.xiangming.site/tags/%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>阿里云盘自动签到实现</title>
-    <link href="http://blog.xiangming.site/posts/ce204b59/"/>
-    <id>http://blog.xiangming.site/posts/ce204b59/</id>
-    <published>2023-04-24T16:29:52.000Z</published>
-    <updated>2023-04-24T16:50:48.638Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;今天在阿里云盘取资料的时候，弹窗告诉我。我的容量已用完，已达105%🤣。那还得了，开会员啊！在开会员的时候突然发现，&lt;strong&gt;签到就可以领会员！！！！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;那还不搞，开启分身，安装阿里，打开抓包软件，抓取签到api 及其参数。用</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="签到" scheme="http://blog.xiangming.site/tags/%E7%AD%BE%E5%88%B0/"/>
     
   </entry>
   
