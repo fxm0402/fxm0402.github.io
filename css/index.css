@@ -333,7 +333,7 @@ hr:before,
   left: 0;
   width: 0.43em;
   height: 0.43em;
-  border: 0.215em solid #3b70fc;
+  /* border: 0.215em solid #3b70fc; */
   border-radius: 0.43em;
   background: transparent;
   content: '';
