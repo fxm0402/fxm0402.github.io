@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-07-01T05:19:55.861Z</updated>
+  <updated>2023-07-02T04:32:29.108Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>H3C NX30Pro 刷 openwrt 教程</title>
+    <link href="http://blog.xiangming.site/posts/18600789/"/>
+    <id>http://blog.xiangming.site/posts/18600789/</id>
+    <published>2023-07-02T04:04:33.000Z</published>
+    <updated>2023-07-02T04:32:29.108Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;H3C NX30 Pro 就是目前百元路由器中性价比最高的（除了运营商定制机），京东618促销价格在159元左右，非常推荐。H3C NX30 Pro 和 360 T7、小米 WR30U 的硬件配置完全一样，用的都是百元路由器神U MT7981B，arm A53 双核</summary>
+        
+      
+    
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="路由器" scheme="http://blog.xiangming.site/tags/%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
+    
+    <category term="软路由" scheme="http://blog.xiangming.site/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>360 T7 刷 openwrt 教程｜最强的百元路由器</title>
@@ -535,34 +562,6 @@
     
     
     <category term="微信推送" scheme="http://blog.xiangming.site/tags/%E5%BE%AE%E4%BF%A1%E6%8E%A8%E9%80%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新冠又来了？</title>
-    <link href="http://blog.xiangming.site/posts/6c79d010/"/>
-    <id>http://blog.xiangming.site/posts/6c79d010/</id>
-    <published>2023-05-03T15:01:10.000Z</published>
-    <updated>2023-05-03T15:19:39.951Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;对于新冠真是谈之色变！&lt;/p&gt;
-&lt;p&gt;3年的口罩，时不时的封控，一次的病倒。这是大多数人的噩梦！&lt;/p&gt;
-&lt;p&gt;今天看到微博热搜 &lt;strong&gt;#阳了&lt;/strong&gt; 登上热搜，属实吓人一跳。朋友们都说二次新冠卷土重来，你们有感受到吗？&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="新闻" scheme="http://blog.xiangming.site/categories/%E6%96%B0%E9%97%BB/"/>
-    
-    
-    <category term="新冠" scheme="http://blog.xiangming.site/tags/%E6%96%B0%E5%86%A0/"/>
     
   </entry>
   
