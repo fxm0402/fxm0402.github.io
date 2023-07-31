@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-06-01T08:57:25.895Z</updated>
+  <updated>2023-07-31T03:40:09.671Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -17,15 +17,86 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>重装系统后，旧机器忘记注销Typora授权怎么办</title>
+    <link href="http://blog.xiangming.site/posts/aae444b7/"/>
+    <id>http://blog.xiangming.site/posts/aae444b7/</id>
+    <published>2023-07-31T02:09:13.000Z</published>
+    <updated>2023-07-31T03:40:09.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;应该没有人像我一样吧！重装系统前忘记给原来的机器取消授权，导致无法添加重装后机器&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;进入[帮助中心](&lt;a href=&quot;https://store.typora.io/#faq&quot;&gt;Typora Store</summary>
+        
+      
+    
+    
+    
+    <category term="Typora" scheme="http://blog.xiangming.site/categories/Typora/"/>
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/tags/IT%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>typora偏好设置之图片上传又拍云</title>
+    <link href="http://blog.xiangming.site/posts/bbd2f1fd/"/>
+    <id>http://blog.xiangming.site/posts/bbd2f1fd/</id>
+    <published>2023-07-31T01:37:06.000Z</published>
+    <updated>2023-07-31T03:45:12.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;之前设置的不用下载PicGo客户端的方法，现在重装电脑后 npm 安装不了这个插件 &lt;code&gt;picgo install super-prefix&lt;/code&gt; 无奈只能用安装客户端方法实现&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="Typora" scheme="http://blog.xiangming.site/categories/Typora/"/>
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/tags/IT%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我们又捡了一只猫，今天她生了</title>
     <link href="http://blog.xiangming.site/posts/1884c8fa/"/>
     <id>http://blog.xiangming.site/posts/1884c8fa/</id>
     <published>2023-06-01T08:57:25.000Z</published>
-    <updated>2023-06-01T08:57:25.895Z</updated>
+    <updated>2023-07-31T03:21:38.848Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2023年5月28日，朋友圈有人在发一只怀孕的银渐层猫猫在流浪。想着也是本就想给橙橙找个伴而且她也怀孕了，看应该是就在这几天生产了。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
     
     
     
+    <category term="猫猫" scheme="http://blog.xiangming.site/categories/%E7%8C%AB%E7%8C%AB/"/>
     
+    
+    <category term="生产" scheme="http://blog.xiangming.site/tags/%E7%94%9F%E4%BA%A7/"/>
+    
+    <category term="幼猫" scheme="http://blog.xiangming.site/tags/%E5%B9%BC%E7%8C%AB/"/>
     
   </entry>
   
@@ -492,64 +563,6 @@
     <category term="生活" scheme="http://blog.xiangming.site/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="种树" scheme="http://blog.xiangming.site/tags/%E7%A7%8D%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>bard.google申请条件与流程。</title>
-    <link href="http://blog.xiangming.site/posts/362fade2/"/>
-    <id>http://blog.xiangming.site/posts/362fade2/</id>
-    <published>2023-04-05T14:38:01.000Z</published>
-    <updated>2023-04-05T14:45:39.565Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;前几天谷歌的AI聊天发布了！作为勇于尝试新事物的我怎么能不尝试一下了！&lt;/p&gt;
-&lt;h4 id=&quot;申请&quot;&gt;&lt;a href=&quot;#申请&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="ai" scheme="http://blog.xiangming.site/tags/ai/"/>
-    
-    <category term="google" scheme="http://blog.xiangming.site/tags/google/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ChatGPT大封号！亚洲成重灾区。</title>
-    <link href="http://blog.xiangming.site/posts/50277f63/"/>
-    <id>http://blog.xiangming.site/posts/50277f63/</id>
-    <published>2023-04-03T07:47:27.000Z</published>
-    <updated>2023-04-03T08:00:42.005Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;就在这两天，一些关于ChatGPT的疾呼突然在各种社交平台和群聊刷屏了。&lt;/p&gt;
-&lt;p&gt;而看到这些消息的用户更是感到前所未有的惶恐。&lt;/p&gt;
-&lt;p&gt;因为导致这些声音出现的原因是——&lt;strong&gt;ChatGPT正在悄无声息地大规模封号&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;很多</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="ChatGPT" scheme="http://blog.xiangming.site/tags/ChatGPT/"/>
-    
-    <category term="工具" scheme="http://blog.xiangming.site/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
