@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-07-31T03:50:56.787Z</updated>
+  <updated>2023-08-02T16:02:03.919Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>玩客云刷 Armbian 系统，装 Docker/Portainer/Home Assistant 教程</title>
+    <link href="http://blog.xiangming.site/posts/aff008b4/"/>
+    <id>http://blog.xiangming.site/posts/aff008b4/</id>
+    <published>2023-08-02T15:29:12.000Z</published>
+    <updated>2023-08-02T16:02:03.919Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前几年在京东抢到了玩客云没转手卖掉赚差价，而是选择自己挖链克，然后就亏成狗了。这些天研究Home Assistant的时候发现玩客云可以刷Armbian系统之后安装Home</summary>
+        
+      
+    
+    
+    
+    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="玩客云" scheme="http://blog.xiangming.site/tags/%E7%8E%A9%E5%AE%A2%E4%BA%91/"/>
+    
+    <category term="docker" scheme="http://blog.xiangming.site/tags/docker/"/>
+    
+  </entry>
   
   <entry>
     <title>重装系统后，旧机器忘记注销Typora授权怎么办</title>
@@ -216,7 +243,7 @@
     <link href="http://blog.xiangming.site/posts/d486b8f0/"/>
     <id>http://blog.xiangming.site/posts/d486b8f0/</id>
     <published>2023-05-18T04:44:32.000Z</published>
-    <updated>2023-05-18T07:48:50.811Z</updated>
+    <updated>2023-08-02T15:34:32.343Z</updated>
     
     
       
@@ -533,36 +560,6 @@
     
     
     <category term="hexo教程" scheme="http://blog.xiangming.site/tags/hexo%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为什么孙国友在宁夏种树，却没有宁夏人支持反而是诋毁？</title>
-    <link href="http://blog.xiangming.site/posts/bc1d41e0/"/>
-    <id>http://blog.xiangming.site/posts/bc1d41e0/</id>
-    <published>2023-04-05T15:22:02.000Z</published>
-    <updated>2023-04-05T15:48:48.323Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;家在西北，小时候南方小朋友放高温假，我们放“风沙假”！&lt;/p&gt;
-&lt;p&gt;从孙国友第一天跪地求水的样子开始，就感到心酸。&lt;/p&gt;
-&lt;p&gt;皮肤晒的黝黑，着急的跪地求水。网上开喷不适合种乔木等等&lt;/p&gt;
-&lt;p&gt;老孙20年前千万资产，就算全买了房现在身价也已经过亿。是什么坚持呢？&lt;/</summary>
-        
-      
-    
-    
-    
-    <category term="新闻" scheme="http://blog.xiangming.site/categories/%E6%96%B0%E9%97%BB/"/>
-    
-    
-    <category term="生活" scheme="http://blog.xiangming.site/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="种树" scheme="http://blog.xiangming.site/tags/%E7%A7%8D%E6%A0%91/"/>
     
   </entry>
   
