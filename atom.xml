@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-08-02T16:07:06.329Z</updated>
+  <updated>2023-08-03T11:26:34.313Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为给新车上牌，我开了个公司</title>
+    <link href="http://blog.xiangming.site/posts/852d290b/"/>
+    <id>http://blog.xiangming.site/posts/852d290b/</id>
+    <published>2023-08-03T10:37:06.000Z</published>
+    <updated>2023-08-03T11:26:34.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;来福建上班了，这个小县城都是“毛驴”（小电动车）的天下，本来城也不大，就想着我们也可以买个电驴出行，毕竟油价又上涨了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;电动车好像也没有什么要选的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电池&lt;/li&gt;
+&lt;li&gt;续航&lt;/</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://blog.xiangming.site/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="摩的" scheme="http://blog.xiangming.site/tags/%E6%91%A9%E7%9A%84/"/>
+    
+  </entry>
   
   <entry>
     <title>玩客云刷 Armbian 系统，装 Docker/Portainer/Home Assistant 教程</title>
@@ -533,33 +564,6 @@
     
     
     <category term="电视" scheme="http://blog.xiangming.site/tags/%E7%94%B5%E8%A7%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo博客中文章路由‘undefined’问题</title>
-    <link href="http://blog.xiangming.site/posts/2ebf4f1/"/>
-    <id>http://blog.xiangming.site/posts/2ebf4f1/</id>
-    <published>2023-04-22T16:48:33.000Z</published>
-    <updated>2023-04-22T16:59:28.611Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;首先，hexo要想实现“短链”就要借助插件“hexo-abbrlink”。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;hexo-abbrlink&lt;/code&gt;是一个hexo博客链接永久化的解决方案。&lt;/p&gt;
-&lt;h4 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="hexo教程" scheme="http://blog.xiangming.site/tags/hexo%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
