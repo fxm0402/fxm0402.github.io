@@ -6,7 +6,7 @@
   <link href="http://blog.xiangming.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xiangming.site/"/>
-  <updated>2023-08-07T03:25:45.933Z</updated>
+  <updated>2023-08-07T06:04:17.433Z</updated>
   <id>http://blog.xiangming.site/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>twikoo邮件通知模板</title>
+    <link href="http://blog.xiangming.site/posts/6bbbe4a5/"/>
+    <id>http://blog.xiangming.site/posts/6bbbe4a5/</id>
+    <published>2023-08-07T04:55:40.000Z</published>
+    <updated>2023-08-07T06:04:17.433Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前几次配置twikoo时，邮件模板都被删除了。这次做个记录，也希望可以帮到其他人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Twikoo邮件自定义字段&quot;&gt;&lt;a href=&quot;#Twikoo邮件自定义字段&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="IT教程" scheme="http://blog.xiangming.site/categories/IT%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="hexo教程" scheme="http://blog.xiangming.site/tags/hexo%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="twikoo" scheme="http://blog.xiangming.site/tags/twikoo/"/>
+    
+    <category term="邮件模板" scheme="http://blog.xiangming.site/tags/%E9%82%AE%E4%BB%B6%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我在若尔盖“高反”了</title>
     <link href="http://blog.xiangming.site/posts/4712a5af/"/>
     <id>http://blog.xiangming.site/posts/4712a5af/</id>
     <published>2023-08-07T02:58:45.000Z</published>
-    <updated>2023-08-07T03:25:45.933Z</updated>
+    <updated>2023-08-07T04:34:46.849Z</updated>
     
     
       
@@ -545,32 +577,6 @@
     
     
     <category term="旅行" scheme="http://blog.xiangming.site/tags/%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>阿里云盘自动签到实现</title>
-    <link href="http://blog.xiangming.site/posts/ce204b59/"/>
-    <id>http://blog.xiangming.site/posts/ce204b59/</id>
-    <published>2023-04-24T16:29:52.000Z</published>
-    <updated>2023-04-24T16:50:48.638Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;今天在阿里云盘取资料的时候，弹窗告诉我。我的容量已用完，已达105%🤣。那还得了，开会员啊！在开会员的时候突然发现，&lt;strong&gt;签到就可以领会员！！！！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;那还不搞，开启分身，安装阿里，打开抓包软件，抓取签到api 及其参数。用</summary>
-        
-      
-    
-    
-    
-    <category term="IT技术" scheme="http://blog.xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="签到" scheme="http://blog.xiangming.site/tags/%E7%AD%BE%E5%88%B0/"/>
     
   </entry>
   
